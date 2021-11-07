@@ -41,7 +41,3 @@ void ringbuff_free(ringbuff *f){
     free(f->buffer);
 }
 
-
-
-
-void main(){}
